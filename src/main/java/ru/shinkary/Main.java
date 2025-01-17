@@ -2,7 +2,7 @@ package ru.shinkary;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello cat!");
+        System.out.println("Hello cats!");
     }
 
     private static String getMessage() {
