@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static String getMessage() {
-        return "no cat! Hello dog!!!!!";
+        return "no cat! Hello dogs!!!!!";
     }
 }
